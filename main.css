@@ -1,0 +1,23 @@
+.flag {
+	width: 60px;
+	height: 60px;
+}
+
+.dice {
+	width: 100px;
+	height: 100px;
+}
+
+td {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.hide {
+	display: none;
+}
+
+button {
+	width: 200px;
+}
